@@ -1,0 +1,14 @@
+.card-body {
+    background-color:lightgrey;
+}
+.card-text {
+    font-weight: 600;
+    font-size:large;
+
+
+}
+.card-item {
+   border-radius: 10px;
+   margin-top: 700px;
+}
+

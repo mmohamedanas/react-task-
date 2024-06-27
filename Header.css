@@ -1,0 +1,14 @@
+
+  /* Header.css */
+
+.navbar-nav .nav-link {
+    color: white; /* Default text color */
+    transition: all 0.3s ease; /* Smooth transition for color change */
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+    color: rgb(14, 151, 14); /* Change text color on hover and when active */
+     /* Example: Make the text bold */
+}
